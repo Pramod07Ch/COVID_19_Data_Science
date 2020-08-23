@@ -1,9 +1,8 @@
-EDS
+Lecture Enterprise Data Science 2020
 ==============================
 
-Applied datascience on COVID-19 data
 
-Project Organization
+Project: Applied datascience on COVID-19 data
 ------------
 
     ├── LICENSE
@@ -52,6 +51,4 @@ Project Organization
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
 
 
---------
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
