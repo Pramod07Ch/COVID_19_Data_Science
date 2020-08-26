@@ -51,4 +51,16 @@ Project: Applied datascience on COVID-19 data
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
 
 
+The goal of this lecture is to transport the best practices of data science from the industry while developing a COVID-19 analysis prototype. <br>
 
+The final result will be a dynamic dashboard - which can be updated by one click - of COVID-19 data with filtered and calculated data sets like the current Doubling Rate of confirmed cases
+
+Techniques used are REST Services, Python Pandas, scikit-learn, Facebook Prophet, Plotly, Dash
+
+For this, we will follow an industry-standard process (CRISP-DM) by focusing on the iterative nature of agile development
+
+- Business understanding (what is our goal)
+- Data Understanding (where do we get data and cleaning of data)
+- Data Preparation (data transformation and visualization)
+- Modeling (Statistics, Machine Learning, and SIR Simulations on COVID Data)
+- Deployment (how to deliver results, dynamic dashboards)
