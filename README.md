@@ -1,9 +1,19 @@
 Lecture Enterprise Data Science 2020
 ==============================
 
-
 Project: Applied datascience on COVID-19 data
-------------
+--------------------------------------------
+
+Result of Analysis prototype visualization
+---------------
+![image1](reports/figures/analysis_prototype.jpg)
+
+SIR dynamic model
+---------------
+![image2](reports/figures/SIR_model.jpg)
+
+Project Outline
+---------------
 
     ├── LICENSE
     ├── Makefile           <- Makefile with commands like `make data` or `make train`
