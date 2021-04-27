@@ -1,19 +1,10 @@
 Lecture Enterprise Data Science 2020
 ==============================
 
-Project: Applied datascience on COVID-19 data
+
+Project Outline: Applied datascience on COVID-19 data
 --------------------------------------------
 
-Result of Analysis prototype visualization
----------------
-![image1](reports/figures/analysis_prototype.jpg)
-
-SIR dynamic model
----------------
-![image2](reports/figures/SIR_model.jpg)
-
-Project Outline
----------------
 
     ├── LICENSE
     ├── Makefile           <- Makefile with commands like `make data` or `make train`
@@ -74,3 +65,14 @@ For this, we will follow an industry-standard process (CRISP-DM) by focusing on 
 - Data Preparation (data transformation and visualization)
 - Modeling (Statistics, Machine Learning, and SIR Simulations on COVID Data)
 - Deployment (how to deliver results, dynamic dashboards)
+
+
+
+Result of Analysis prototype visualization
+---------------
+![image1](reports/figures/analysis_prototype.jpg)
+
+SIR dynamic model
+---------------
+![image2](reports/figures/SIR_model.jpg)
+
